@@ -1,0 +1,9 @@
+{
+	"name": "BmatixStagingDataFactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3637acb0-a07a-4372-a5ee-8eeee87bf0ed",
+		"tenantId": "e160a9cd-a02b-4c36-b461-8bdca82ee58d"
+	}
+}
